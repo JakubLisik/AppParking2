@@ -1,0 +1,14 @@
+C:\Users\w67251\source\repos\AppParking\AppParking\bin\Debug\net8.0\AppParking.exe
+C:\Users\w67251\source\repos\AppParking\AppParking\bin\Debug\net8.0\AppParking.deps.json
+C:\Users\w67251\source\repos\AppParking\AppParking\bin\Debug\net8.0\AppParking.runtimeconfig.json
+C:\Users\w67251\source\repos\AppParking\AppParking\bin\Debug\net8.0\AppParking.dll
+C:\Users\w67251\source\repos\AppParking\AppParking\bin\Debug\net8.0\AppParking.pdb
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.AssemblyInfoInputs.cache
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.AssemblyInfo.cs
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.csproj.CoreCompileInputs.cache
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.dll
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\refint\AppParking.dll
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.pdb
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\AppParking.genruntimeconfig.cache
+C:\Users\w67251\source\repos\AppParking\AppParking\obj\Debug\net8.0\ref\AppParking.dll
